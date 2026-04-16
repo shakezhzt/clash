@@ -41,7 +41,6 @@
 +.rongcloud.com
 
 # 国内银行域名
-DOMAEYWORD,bank
 +.95516.com
 +.unionpay.com
 +.unionpaysecure.com
@@ -76,7 +75,7 @@ DOMAEYWORD,bank
 +.srcb.com.cn
 +.gdb.com.cn
 
-  # 支付 / 微信生态
+# 支付 / 微信生态
 +.alipay.com
 +.alipayobjects.com
 +.alipayhk.com
@@ -101,9 +100,6 @@ DOMAEYWORD,bank
 # 政务与公共服务
 +.12315.cn
 +.gov.cn
-DOMAEYWORD,12315
-DOMAEYWORD,gjzwfw
-DOMAEYWORD,12306
 +.12306.cn
 +.govapp.cn
 
