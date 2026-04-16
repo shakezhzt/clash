@@ -16,7 +16,9 @@ DOMAIN-SUFFIX,txmt2.com
 DOMAIN-SUFFIX,zhaoyt2.com
 DOMAIN-SUFFIX,ljfbz.com
 DOMAIN-SUFFIX,69mj.com
-DOMAIN-SUFFIX,cz4k.com/
+DOMAIN-SUFFIX,cz4k.com
+DOMAIN-SUFFIX,getui.com
+
 # 银行登录修复：风控安全 SDK
 DOMAIN-SUFFIX,tongdun.net
 DOMAIN-SUFFIX,tongduncdn.com
